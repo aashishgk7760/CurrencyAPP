@@ -44,7 +44,7 @@ const App = () => {
   return (
     <>
       <ScrollView
-        backgroundColor="#1b262c"
+        backgroundColor="#1b262d"
         keyboardShouldPersistTaps="handled"
         contentInsetAdjustmentBehavior="automatic"
       >
